@@ -1,7 +1,7 @@
 # Speech Recognition in Unity
 Speech Recognition using C# and Unity3D.
 
-![Football game in Unity3D](http://github.com/codemaker2015/Speech-to-text--STT--in-unity/Assets/UI/screenshot.jpg)
+![Football game in Unity3D](https://github.com/codemaker2015/Speech-to-text--STT--in-unity/blob/master/Assets/UI/screenshot.png)
 
 ## Prerequisites
 To run the project, you’ll need the following software components:
